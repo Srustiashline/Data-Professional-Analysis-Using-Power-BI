@@ -8,8 +8,8 @@ This project analyzes survey data collected from data professionals. The goal is
 
 ## Collaborators
 [Srustiashline](https://github.com/Srustiashline)
-[Collaborator Name 1](collaborator1@example.com)
-[Collaborator Name 1](collaborator1@example.com)
+[Yashaswini BM](https://github.com/Yashu-0101)
+[Vaishnavi](https://github.com/Vaishnavi-1811)
 
 
 ## Dataset Description
