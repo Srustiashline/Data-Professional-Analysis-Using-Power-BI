@@ -67,8 +67,8 @@ To replicate this analysis in Power BI, follow these steps:
     - Share the report with stakeholders by providing access or embedding it into a website or application.
   
 ## Dashboard Snapshot
-[Data Professional Survey Breakdown](![Screenshot 2024-07-17 195959](https://github.com/user-attachments/assets/2035b552-56b1-4a90-b65b-a639dd1df15e)
-)
+[Data Professional Survey Breakdown]![Screenshot 2024-07-17 195959](https://github.com/user-attachments/assets/2035b552-56b1-4a90-b65b-a639dd1df15e)
+
 
 ## Conclusion
 This project demonstrates how to perform a data professional analysis using Power BI. By following the steps outlined in this README, you can replicate the analysis and gain valuable insights from the survey data.
