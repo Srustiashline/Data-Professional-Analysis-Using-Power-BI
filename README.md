@@ -4,11 +4,11 @@
 This project analyzes survey data collected from data professionals. The goal is to uncover insights about their experiences, job satisfaction, challenges, and demographics. Power BI is used to visualize and interpret the data, providing a comprehensive analysis.
 
 ## Supervised by
-[Victor Ikechukwu Agughasi] ((https://github.com/Victor-Ikechukwu) ,(Assistant Professor) 
+[Victor Ikechukwu Agughasi]((https://github.com/Victor-Ikechukwu) ,(Assistant Professor) 
 Department of CSE, MIT Mysore) )
 
 ## Collaborators
-[Srustiashline] (https://github.com/Srustiashline)
+[Srustiashline](https://github.com/Srustiashline)
 [Collaborator Name 1](collaborator1@example.com)
 [Collaborator Name 1](collaborator1@example.com)
 
