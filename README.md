@@ -9,9 +9,9 @@ This project analyzes survey data collected from data professionals. The goal is
 Department of CSE, MIT Mysore)
 
 ## Collaborators
--[Srustiashline](https://github.com/Srustiashline)
--[Yashaswini BM](https://github.com/Yashu-0101)
--[Vaishnavi](https://github.com/Vaishnavi-1811)
+- [Srustiashline](https://github.com/Srustiashline)
+- [Yashaswini BM](https://github.com/Yashu-0101)
+- [Vaishnavi](https://github.com/Vaishnavi-1811)
 
 
 ## Dataset Description
