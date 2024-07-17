@@ -11,7 +11,8 @@ Department of CSE, MIT Mysore)
 ## Collaborators
 - [Srustiashline](https://github.com/Srustiashline)
 - [Vaishnavi](https://github.com/Vaishnavi-1811)
-- [Yashaswini BM](https://github.com/Yashu-0101)
+- [Yashaswini BM](https://github.com/Yashu-0101
+- [Prathiksha gowda BS](https://github.com/PrathikshagowdaBS)
 
 
 ## Dataset Description
