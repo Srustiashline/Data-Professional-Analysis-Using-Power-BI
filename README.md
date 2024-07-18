@@ -6,7 +6,7 @@ This project analyzes survey data collected from data professionals. The goal is
 ## Supervised by
 [Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), 
 (Assistant Professor) 
-Department of CSE, MIT Mysore)
+Department of CSE, MIT Mysore
 
 ## Collaborators
 - [Srusti Ashline](https://github.com/Srustiashline)
