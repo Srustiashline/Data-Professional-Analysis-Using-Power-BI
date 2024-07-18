@@ -14,6 +14,22 @@ Department of CSE, MIT Mysore
 - [Yashaswini BM](https://github.com/Yashu-0101)
 - [Prathiksha gowda BS](https://github.com/PrathikshagowdaBS)
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Collaborators and Supervisors](#collaborators-and-supervisors)
+- [Dashboard Snapshot](#dashboard-snapshot)
+- [Dataset Description](#dataset-description)
+- [Analysis Goals](#analysis-goals)
+- [Instructions for Using Power BI](#instructions-for-using-power-bi)
+  - [Load the Dataset](#load-the-dataset)
+  - [Data Transformation](#data-transformation)
+  - [Data Modeling](#data-modeling)
+  - [Data Visualization](#data-visualization)
+  - [Report Creation](#report-creation)
+  - [Publishing and Sharing](#publishing-and-sharing)
+- [Conclusion](#conclusion)
+- [License](#license)
+
 
 ## Dataset Description
 The dataset contains responses from a survey conducted among data professionals. The key columns in the dataset include:
