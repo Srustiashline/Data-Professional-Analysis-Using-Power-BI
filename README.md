@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Dashboard Snapshot](#dashboard-snapshot)
 - [Dataset Description](#dataset-description)
 - [Analysis Goals](#analysis-goals)
 - [Instructions for Using Power BI](#instructions-for-using-power-bi)
@@ -12,6 +11,7 @@
   - [Data Visualization](#data-visualization)
   - [Report Creation](#report-creation)
   - [Publishing and Sharing](#publishing-and-sharing)
+-  [Dashboard Snapshot](#dashboard-snapshot)
 - [Conclusion](#conclusion)
 - [License](#license)
 
