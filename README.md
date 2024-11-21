@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Collaborators and Supervisors](#collaborators-and-supervisors)
 - [Dashboard Snapshot](#dashboard-snapshot)
 - [Dataset Description](#dataset-description)
 - [Analysis Goals](#analysis-goals)
@@ -18,17 +17,6 @@
 
 ## Introduction
 This project analyzes survey data collected from data professionals. The goal is to uncover insights about their experiences, job satisfaction, challenges, and demographics. Power BI is used to visualize and interpret the data, providing a comprehensive analysis.
-
-## Supervised by
-[Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), 
-(Assistant Professor) 
-Department of CSE, MIT Mysore
-
-## Collaborators
-- [Srusti Ashline](https://github.com/Srustiashline)
-- [Vaishnavi](https://github.com/Vaishnavi-1811)
-- [Yashaswini BM](https://github.com/Yashu-0101)
-- [Prathiksha gowda BS](https://github.com/PrathikshagowdaBS)
 
 ## Dataset Description
 The dataset contains responses from a survey conducted among data professionals. The key columns in the dataset include:
